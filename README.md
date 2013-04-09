@@ -15,7 +15,7 @@ Get your work done faster!!
 
 # Install
 
-Just drag'n'drop alfredworkflow files into the list pain of workflows view in preferences on your Alfred.
+Just drag'n'drop alfredworkflow files into the list pane of workflows view in preferences on your Alfred.
 
 
 
