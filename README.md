@@ -26,6 +26,14 @@ Features are as below.
 
 
 ---
+### Date2Unixtime
+
+Convert YYYY-MM-DD HH:mm:ss Z date to unixtime.
+Converted value is to be copied into the clipboard.
+
+
+
+---
 ### Decimal2Hex
 
 This workflow converts decimal to hex.  
@@ -95,6 +103,13 @@ type
 then  
 get something integer between 1 and 10
 
+
+
+---
+### Unixtime2Date
+
+Convert unixtime to YYYY-MM-DD HH:mm:ss Z date.
+Converted value is to be copied into the clipboard.
 
 
 ---
